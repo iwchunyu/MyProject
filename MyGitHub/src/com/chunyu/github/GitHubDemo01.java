@@ -5,7 +5,8 @@ public class GitHubDemo01 {
         System.out.println("hi 这是我的github项目 你们好啊");
         System.out.println("cap");
         System.out.println("hi  woyoulai le ");
-
+        System.out.println("我说草蜢 你说hi" +
+                " h");
 
     }
 }
