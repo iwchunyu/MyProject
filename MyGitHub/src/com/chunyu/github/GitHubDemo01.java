@@ -7,6 +7,7 @@ public class GitHubDemo01 {
         System.out.println("hi  woyoulai le ");
         System.out.println("我说草蜢 你说hi" +
                 " h");
+        System.out.println("hi________________________________");
 
     }
 }
