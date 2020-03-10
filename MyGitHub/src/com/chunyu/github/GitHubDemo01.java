@@ -14,6 +14,7 @@ public class GitHubDemo01 {
         System.out.println("nit ooc aia");
         System.out.println("wozaixieyige");
         System.out.println("------->");
+        System.out.println("wocaonima a ");
 
 
     }
