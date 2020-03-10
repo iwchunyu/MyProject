@@ -12,5 +12,9 @@ public class GitHubDemo01 {
         System.out.println("草蜢 草蜢");
         System.out.println("nicai");
         System.out.println("nit ooc aia");
+        System.out.println("wozaixieyige");
+        System.out.println("------->");
+
+
     }
 }
