@@ -15,7 +15,7 @@ public class GitHubDemo01 {
         System.out.println("wozaixieyige");
         System.out.println("------->");
         System.out.println("wocaonima a ");
-
+        System.out.println("我草 今天就要入职了 哎");
 
     }
 }
